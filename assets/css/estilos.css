@@ -13,3 +13,11 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+#video-background {
+    height: 100%;
+    position: fixed;
+    width: 100%;
+}
+i{
+    color:white;
+}
